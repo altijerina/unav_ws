@@ -1,0 +1,37 @@
+[0.021s] Invoking command in '/home/albert/unav_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/albert/bcdc_ws/install/agbot_teleop:/home/albert/bcdc_ws/install/agbot_py:/home/albert/ws_moveit2/install/moveit_configs_utils:/home/albert/ws_moveit2/install/launch_param_builder:/home/albert/umov_ws/install/arduino_py_examples:/home/albert/udem2_ws/install/actions_py:/home/albert/udem2_ws/install/lifecycle_py:/home/albert/udem2_ws/install/executors_py:/home/albert/udem2_ws/install/components_py:/home/albert/udem_ws/install/turtlesim_catcher:/home/albert/udem_ws/install/my_py_pkg:/home/albert/udem_ws/install/lifecycle_py:/home/albert/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /home/albert/.local/bin/cmake --build /home/albert/unav_ws/build/turtlebot3_fake_node -- -j8 -l8
+[0.062s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[7.880s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[8.306s] [100%] Built target turtlebot3_fake_node
+[8.312s] Invoked command in '/home/albert/unav_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/albert/bcdc_ws/install/agbot_teleop:/home/albert/bcdc_ws/install/agbot_py:/home/albert/ws_moveit2/install/moveit_configs_utils:/home/albert/ws_moveit2/install/launch_param_builder:/home/albert/umov_ws/install/arduino_py_examples:/home/albert/udem2_ws/install/actions_py:/home/albert/udem2_ws/install/lifecycle_py:/home/albert/udem2_ws/install/executors_py:/home/albert/udem2_ws/install/components_py:/home/albert/udem_ws/install/turtlesim_catcher:/home/albert/udem_ws/install/my_py_pkg:/home/albert/udem_ws/install/lifecycle_py:/home/albert/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /home/albert/.local/bin/cmake --build /home/albert/unav_ws/build/turtlebot3_fake_node -- -j8 -l8
+[8.362s] Invoking command in '/home/albert/unav_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/albert/bcdc_ws/install/agbot_teleop:/home/albert/bcdc_ws/install/agbot_py:/home/albert/ws_moveit2/install/moveit_configs_utils:/home/albert/ws_moveit2/install/launch_param_builder:/home/albert/umov_ws/install/arduino_py_examples:/home/albert/udem2_ws/install/actions_py:/home/albert/udem2_ws/install/lifecycle_py:/home/albert/udem2_ws/install/executors_py:/home/albert/udem2_ws/install/components_py:/home/albert/udem_ws/install/turtlesim_catcher:/home/albert/udem_ws/install/my_py_pkg:/home/albert/udem_ws/install/lifecycle_py:/home/albert/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /home/albert/.local/bin/cmake --install /home/albert/unav_ws/build/turtlebot3_fake_node
+[8.365s] -- Install configuration: ""
+[8.366s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[8.370s] -- Set non-toolchain portion of runtime path of "/home/albert/unav_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node" to ""
+[8.370s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[8.370s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[8.370s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[8.371s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[8.371s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[8.371s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[8.371s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[8.371s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/include/
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[8.372s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[8.373s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.374s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.374s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[8.374s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[8.374s] -- Installing: /home/albert/unav_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[8.375s] Invoked command in '/home/albert/unav_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/albert/bcdc_ws/install/agbot_teleop:/home/albert/bcdc_ws/install/agbot_py:/home/albert/ws_moveit2/install/moveit_configs_utils:/home/albert/ws_moveit2/install/launch_param_builder:/home/albert/umov_ws/install/arduino_py_examples:/home/albert/udem2_ws/install/actions_py:/home/albert/udem2_ws/install/lifecycle_py:/home/albert/udem2_ws/install/executors_py:/home/albert/udem2_ws/install/components_py:/home/albert/udem_ws/install/turtlesim_catcher:/home/albert/udem_ws/install/my_py_pkg:/home/albert/udem_ws/install/lifecycle_py:/home/albert/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /home/albert/.local/bin/cmake --install /home/albert/unav_ws/build/turtlebot3_fake_node

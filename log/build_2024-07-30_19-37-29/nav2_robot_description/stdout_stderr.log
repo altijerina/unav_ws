@@ -1,0 +1,21 @@
+-- Install configuration: ""
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description//urdf
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description//urdf/my_robot.urdf
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description//urdf/nav2_robot_base.xacro
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description//rviz
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description//rviz/urdf_config.rviz
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/ament_index/resource_index/package_run_dependencies/nav2_robot_description
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/ament_index/resource_index/parent_prefix_path/nav2_robot_description
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/environment/ament_prefix_path.sh
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/environment/ament_prefix_path.dsv
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/environment/path.sh
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/environment/path.dsv
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/local_setup.bash
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/local_setup.sh
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/local_setup.zsh
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/local_setup.dsv
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/package.dsv
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/ament_index/resource_index/packages/nav2_robot_description
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/cmake/nav2_robot_descriptionConfig.cmake
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/cmake/nav2_robot_descriptionConfig-version.cmake
+-- Installing: /home/albert/unav_ws/install/nav2_robot_description/share/nav2_robot_description/package.xml
